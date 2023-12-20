@@ -11,7 +11,7 @@ git clone [copy from above]
 cd [directory from above]
 ```
 
-copy .env-example to .env
+copy env-example to .env
 
 ```
 cp .env-example .env
