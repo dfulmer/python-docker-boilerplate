@@ -14,7 +14,7 @@ cd [directory from above]
 copy env-example to .env
 
 ```
-cp .env-example .env
+cp env-example .env
 ```
 
 edit .env with actual environment variables
